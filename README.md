@@ -8,6 +8,6 @@ Current Parts list:
 | PCB              | 1        | N/A    | Custom Servo Driver |   |
 | Micro Servo      | 12       | $24.00 | Movement            |   |
 | Arduino Nano     | 1        | $4.00  | Control Board       |   |
-| 3D Printed Parts | 9        | N/A    | Assembly            |   |
+| 3D Printed Parts | 9        | $4.00    | Assembly            |   |
 |------------------|----------|--------|---------------------|---|
-| Total:           |          |        | 40/ea               |   |
+| Total:           |          |        | 44/ea               |   |
