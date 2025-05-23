@@ -1,1 +1,4 @@
-# journal started for [highway to undercity](https://highway.hackclub.com/)
+# Journal started for [Highway to Undercity](https://highway.hackclub.com/)
+total hours worked: `0`
+
+# `0/0/0000`: Research on Design (_ hrs)
