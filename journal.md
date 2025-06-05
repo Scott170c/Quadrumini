@@ -11,7 +11,7 @@ Also did research on motors, and I will be sticking with the MG90! I want to kee
 
 # `6/4/2025` - Research on General Design (1.5 hrs)
 Today, I did some research on different types of legs, and since one of my goals is to have my robot jump I was thinking of using a compliant leg. I looked into many designs and if I do end up going for a compliant leg I will most likely be going with this one! I like it's simplicity.
-<img src="images/compliant-leg.jpeg" height="300px"> 
+<img src="images/compliant-leg.jpg" height="300px"> 
 [Design by Adam Beedle](https://www.youtube.com/watch?v=bDxItdyQ3jc)
 
 On Saturday, I hope to start working on my first CAD and print out a couple iterations :)
