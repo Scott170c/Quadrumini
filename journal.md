@@ -28,4 +28,19 @@ I also started cading the leg for the robot, and got some progress. A lil rusty 
 <br></br>
 Because there is now 3 DOF per leg, I have decided to not design a compliant leg. I may design one in the future but I have decided to go for more degrees of freedom 🕺 over jumping ⬆️ for now.
 
+# `6/14/2025` - Title (4 hrs)
+Today, I got a lot done! I remade the CAD for the hip flexor to shed some weight and also make it easier to use, and started working on the PCB for the robot, which I intend to use to drive the entire thing off of!
+<br>
+Hip Flexor Redesign:
+<br></br>
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/09045d5d56b372126f6a17f4356aa750195ee9b2_image.png" height="200px"> 
+<br></br>
+The last design was very boxy, and took up a lot of space laterally, which was limited. With this redesign, I moved it's bracing to be vertical and made it overall thinner! It is also now way easier to put in the servo horn :)
+<br>
+Current PCB Schematic:
+<br></br>
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/c801dd129de85170f7912f296416dcfc8e0e7cdd_image.png" height="400px"> 
+<br></br>
+I am using the Raspberry Pi Pico as my MCU (Microcontroller Unit) and will be using the PCA9685 chip to drive everything, which makes it so that I can drive all of the servos through one I2C connection! I decided to put everything on a PCB, as I wanted to minimize the amount of wires as much as possible. This design option will give me more space in the housing to cram the servo wires in, and put my MPU chip in a more precise spot! (will be implementing that very soon)
+
 # `0/0/2025` - Title (_ hrs)
