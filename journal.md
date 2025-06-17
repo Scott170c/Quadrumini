@@ -43,4 +43,17 @@ Current PCB Schematic:
 <br></br>
 I am using the Raspberry Pi Pico as my MCU (Microcontroller Unit) and will be using the PCA9685 chip to drive everything, which makes it so that I can drive all of the servos through one I2C connection! I decided to put everything on a PCB, as I wanted to minimize the amount of wires as much as possible. This design option will give me more space in the housing to cram the servo wires in, and put my MPU chip in a more precise spot! (will be implementing that very soon)
 
+# `4/15/2025` - Title (5 hrs)
+Spent a lot of time today on CAD, went through multiple iterations of design for the housing. Unfortunately I forgot to take progress pictures, but this is what I finally came up with:
+<br></br>
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/4a834fda96e2f4377502c1da5bee612ac5a9cd2c_image.png" height="400px"> 
+<br></br>
+I felt the design was nice, but I realized that because of the way my leg is designed the front legs are unable to bend fully (as seen in the picture above)
+<br>
+So anyway, heres what needs to be done left:
+- finalize PCB + circuit
+- re-design housing
+- put together a full CAD
+
+Hopefully I will be able to get it done soon!
 # `0/0/2025` - Title (_ hrs)
