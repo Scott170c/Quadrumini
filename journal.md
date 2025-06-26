@@ -52,8 +52,19 @@ I felt the design was nice, but I realized that because of the way my leg is des
 <br>
 So anyway, heres what needs to be done left:
 - finalize PCB + circuit
-- re-design housing
-- put together a full CAD
+- re-design housing (?)
 
 Hopefully I will be able to get it done soon!
+
+# `4/20/2025 - 4/25/2025` - Finalized Design (12 hrs)
+I haven't been journaling consistently due to summer classes kicking up (oops) but I have been working here and there over the past week. Lots of progress! Here is the finished schematic of the PCB + 3D render!
+<br></br>
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f917173383b8f6d54f75ce65e40fb0369eb9e442_image.png" height="300px"> 
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/be97bf74274a2d2effee03f1f7019258e77edfbc_image.png" height="300px"> 
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/e4248d27e6ffc0a39864362836acd46e91fb231c_image.png" height="300px"> 
+<br></br>
+For the actual connections, the way it will work is I will have a 2S Lipo battery connected to a UBEC (Universial Battery Eliminator Circuit) which will then feed into the PCB. The motors then get connected to the PCB to be controlled :)
+Basically, it goes `2S Lipo` -> `UBEC` -> `PCB` -> `Servos`
+<br>
+For more accurate control, I also added in a MPU module that can be stuck on the bottom of the PCB! This concludes the design part of the journal, and hopefully the next portion will be me building it out :)
 # `0/0/2025` - Title (_ hrs)
