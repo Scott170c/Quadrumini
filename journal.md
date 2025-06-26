@@ -1,5 +1,5 @@
 ### Quadrumini Journal started for [Highway to Undercity](https://highway.hackclub.com/)
-total hours worked: `6`
+total hours worked: `27`
 
 # `6/3/2025` - Research on Electronics Design (1 hr)
 I did some calculations for the power source I need in order to power my quadruped, and I have come up with two options:
@@ -28,7 +28,7 @@ I also started cading the leg for the robot, and got some progress. A lil rusty 
 <br></br>
 Because there is now 3 DOF per leg, I have decided to not design a compliant leg. I may design one in the future but I have decided to go for more degrees of freedom 🕺 over jumping ⬆️ for now.
 
-# `6/14/2025` - Title (4 hrs)
+# `6/14/2025` - Hip Flexor Design + Start on PCB (4 hrs)
 Today, I got a lot done! I remade the CAD for the hip flexor to shed some weight and also make it easier to use, and started working on the PCB for the robot, which I intend to use to drive the entire thing off of!
 <br>
 Hip Flexor Redesign:
@@ -43,7 +43,7 @@ Current PCB Schematic:
 <br></br>
 I am using the Raspberry Pi Pico as my MCU (Microcontroller Unit) and will be using the PCA9685 chip to drive everything, which makes it so that I can drive all of the servos through one I2C connection! I decided to put everything on a PCB, as I wanted to minimize the amount of wires as much as possible. This design option will give me more space in the housing to cram the servo wires in, and put my MPU chip in a more precise spot! (will be implementing that very soon)
 
-# `4/15/2025` - Title (5 hrs)
+# `4/15/2025` - Tons of CAD (5 hrs)
 Spent a lot of time today on CAD, went through multiple iterations of design for the housing. Unfortunately I forgot to take progress pictures, but this is what I finally came up with:
 <br></br>
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/4a834fda96e2f4377502c1da5bee612ac5a9cd2c_image.png" height="400px"> 
