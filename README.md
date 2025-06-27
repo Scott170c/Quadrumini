@@ -1,5 +1,5 @@
 # Quadrumini
-### Affordable quadruped robot that can be modded with basic functionality!
+### Affordable quadruped robot that can be modded with basic functionality! Updated models [HERE](https://github.com/Scott170c/Quadrumini/tree/main/inDev/QuadruminiV3)
 ```
 Goals:
 - Under $65 USD per unit
