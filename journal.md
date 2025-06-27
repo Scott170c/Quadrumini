@@ -67,4 +67,11 @@ For the actual connections, the way it will work is I will have a 2S Lipo batter
 Basically, it goes `2S Lipo` -> `UBEC` -> `PCB` -> `Servos`
 <br>
 For more accurate control, I also added in a MPU module that can be stuck on the bottom of the PCB! This concludes the design part of the journal, and hopefully the next portion will be me building it out :)
+
+# `4/26/2025` - Final CAD + Attempts of adding PCB Model (2 hrs)
+Final CAD! YIPPE!
+<br></br>
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6856774ca16c4dd138cb67b755833bc600993292_image.png" height="500px">
+<br></br>
+Unfortunately, because I designed in EasyEDA it is goofy hard to try to export my pcb as a 3d model, so I will leave that problem for tomorrow me but I know it fits so :)
 # `0/0/2025` - Title (_ hrs)
