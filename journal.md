@@ -1,3 +1,10 @@
+---
+title: "Quadrumini"
+author: "@Scott"
+description: "Small and affordable quadruped robot"
+created_at: "2025-06-05"
+---
+
 ### Quadrumini Journal started for [Highway to Undercity](https://highway.hackclub.com/)
 total hours worked: `27`
 
