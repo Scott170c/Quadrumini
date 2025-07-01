@@ -22,5 +22,5 @@ BOM:
 |2S Lipo Battery  |Lipo Battery 1000mah                 |8.99      |Lightweight, around 60g                                      |https://www.amazon.com/Gens-ace-1000mAh-Helicopter-Airplane/dp/B012CMFAL2/ref=sr_1_2_sspa?s=toys-and-games&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1|
 |UBEC             |Universial Battery Eliminator Circuit|12.99     |to step down voltage to safe operating voltage for components|https://www.amazon.com/SoloGood-UBEC-5V-3A-Quadcopter/dp/B09WKCBXKK/ref=sr_1_1_sspa?s=toys-and-games&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1      |
 |PCB              |For driving the the motors, computing|80.79     |not needed for now, will prob use stray components           |LCSC                                                                                                                                                        |
-Total: $136.75 USD
+Total: | $136.75 USD |
 
