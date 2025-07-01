@@ -1,0 +1,8 @@
+Component,Description,Cost (USD),Notes,Link
+MG90S Servos,Small MG (metal gear) servo,$29.99,Smallest motor w/ metal gears for added strength,amazon
+Raspberry Pi Pico,MCU to control the robot (the brain),$3.99,For controlling the robot,microcenter
+2S Lipo Battery,"Lipo Battery (1000 mah , 7V)",$8.99,"Lightweight, around 60g",amazon
+UBEC,Battery eliminator circuit,$3.15,Needed to step down voltage from 7V to 5V,aliexpress
+PCA9685 Servo Driver,Drives servos through I2C,$3.34,Needed to drive all of the servos,aliexpress
+MPU6050,For sensing Gyro/Accel,$1.86,"Not needed, can be added for extra functionality",aliexpress
+Logic-Level Converter,shifting logic from 5V to 3V3 for PCA module,$2.41,Needed to shift to lower voltage logic,aliexpress
