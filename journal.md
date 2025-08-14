@@ -81,4 +81,24 @@ Final CAD! YIPPE!
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6856774ca16c4dd138cb67b755833bc600993292_image.png" height="500px">
 <br></br>
 Unfortunately, because I designed in EasyEDA it is goofy hard to try to export my pcb as a 3d model, so I will leave that problem for tomorrow me but I know it fits so :)
+
+# `8/14/2025` - Testing out circuit (3 hrs)
+So today I recieved all of my parts! I only have a bit of 3D printed parts left before I can assemble the whole thing so I decided to test if my circuitry would work.
+
+I blew up my last PCA9685 Servo Driver unfortunately, so I had to improvise and make a testing board with a orpheus pico (pi pico clone) lying around... when I turned it on and boosted my test program, things did not go as expected. The servos were extremely underpowered, and only half of them were able to be controlled. I'm deciding to wait until the PCA module I ordered comes in the mail and hoping it works.
+
+# `8/9/2025` - Full Build (6 hrs)
+I finally got the PCA board and finished 3D printing everything, so I've started assembling it today! Everything is looking great right now except for the fact that the wires stick out too much, so I wont be able to put a lid on the housing :( 
+
+Here is what it looks like fully built out!
+<br></br>
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6856774ca16c4dd138cb67b755833bc600993292_image.png" height="500px">
+
+# 8/10/2025 - Coding (4 hrs)
+I started coding little commands for it to do, it is able to twist and dance around but not able to fully walk just yet. I've been walking some youtube videos on how other people approach making their robots walk. 
+
+Here is a demo video of it "dancing"
+<br></br>
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6856774ca16c4dd138cb67b755833bc600993292_image.png" height="500px">
+
 # `0/0/2025` - Title (_ hrs)
