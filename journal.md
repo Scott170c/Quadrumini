@@ -92,13 +92,11 @@ I finally got the PCA board and finished 3D printing everything, so I've started
 
 Here is what it looks like fully built out!
 <br></br>
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6856774ca16c4dd138cb67b755833bc600993292_image.png" height="500px">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/9d231949d6d8f15670437aa9f0b4f9decfb6d598_image.png" height="500px">
 
-# 8/10/2025 - Coding (4 hrs)
+# 8/10/2025 - Coding (6 hrs)
 I started coding little commands for it to do, it is able to twist and dance around but not able to fully walk just yet. I've been walking some youtube videos on how other people approach making their robots walk. 
 
-Here is a demo video of it "dancing"
-<br></br>
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6856774ca16c4dd138cb67b755833bc600993292_image.png" height="500px">
+Here is a [demo video](https://youtu.be/tfDZpeDsz_g) of it moving!
 
 # `0/0/2025` - Title (_ hrs)
